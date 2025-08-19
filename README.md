@@ -1,3 +1,5 @@
+# f1_predictions_2025
+
 ## Project Overview
 This repository features a **Gradient Boosting model** designed to predict Formula 1 race outcomes using prior race data, qualifying results, and other structured information. The workflow incorporates:
 - FastF1 API for historical datasets  
