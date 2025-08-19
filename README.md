@@ -1,12 +1,5 @@
 # f1_predictions_2025
-
-## Project Overview
-This repository features a **Gradient Boosting model** designed to predict Formula 1 race outcomes using prior race data, qualifying results, and other structured information. The workflow incorporates:
-- FastF1 API for historical datasets  
-- 2024 season race outcomes  
-- 2025 qualifying session data  
-- Ongoing updates throughout the season to refine accuracy  
-- Feature engineering to enhance predictive performance  
+Every week, I try predict Formula 1 race outcomes using prior race data, qualifying results, and other structured information.
 
 ## Data Sources
 - **FastF1 API**: Provides lap times, race results, and telemetry  
