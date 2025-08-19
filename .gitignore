@@ -1,0 +1,30 @@
+# Cache directories
+f1_cache/
+__pycache__/
+.cache/
+cache/
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/ 
